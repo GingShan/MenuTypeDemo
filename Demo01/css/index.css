@@ -1,0 +1,9 @@
+.LineBt{
+    position: fixed;
+    bottom: 2%;
+    right: 2%;
+    width: 3%;
+    min-width: 50px;
+    cursor: pointer;
+    z-index: 10;
+}
